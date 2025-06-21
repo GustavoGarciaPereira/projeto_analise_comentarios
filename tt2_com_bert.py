@@ -14,7 +14,7 @@ import torch
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Substitua pela sua chave de API
-API_KEY = "AIzaSyDShBS7kjjhqvBWx885-Dv-Emj3s1Tzcv8"
+API_KEY = ""
 
 # Inicialização do modelo BERT para análise de sentimentos
 print("Carregando modelo BERT para análise de sentimentos...")
